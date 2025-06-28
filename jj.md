@@ -153,4 +153,4 @@ $` k = -3 \pm \sqrt{3} `$
 **(খ)**
 $` f(A) + 2I_3 = \begin{bmatrix} 1 & -4 & -7 \\ 23 & 16 & 5 \\ 47 & 32 & 19 \end{bmatrix} `$
 
-$`\textbf{(গ) } (A + I_{3})(A ^ T - I_{3}) = \begin{bmatrix} 1 & 5 & 8 \\ -1 & 13 & 29 \\ -4 & 23 & 49 \end{bmatrix} `$
+$`\textbf{(গ)} (A + I_{3})(A ^ T - I_{3}) = \begin{bmatrix} 1 & 5 & 8 \\ -1 & 13 & 29 \\ -4 & 23 & 49 \end{bmatrix} `$
